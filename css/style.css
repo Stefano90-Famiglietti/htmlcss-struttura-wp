@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containeruno {
+    width: 1400px;
+    height: 1200px;
+    background-color: white;
+    border: black solid;
+    position: relative;
+    opacity: 60%;
+
+}
+
+.box {
+    margin: 0 auto;
+    width: 800px;
+    clear: both;
+}
+
+.container {
+    width: 800px;
+    height: 100px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+.titolo {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 20px;
+    color: blue;
+}
+
+.containerdue {
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+    position: relative;
+    float: left;
+    margin-right: 20px;
+    margin-top: 1%;
+}
+
+.containertre {
+    width: 580px;
+    height: 350px;
+    background-color: purple;
+    position: relative;
+    float: left;
+    margin-top: 1%;
+}
+
+.containerquattro {
+    width: 800px;
+    height: 100px;
+    background-color: lightblue;
+    position: absolute;
+    top: 520px;
+    left:298px;
+    margin-top: 1%;
+
+}
